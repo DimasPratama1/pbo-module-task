@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\Tugas PBO Dimas\Tugas PBO Dimas\obj\Debug\net6.0\Tugas PBO Dimas.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Tugas PBO Dimas\Tugas PBO Dimas\obj\Debug\net6.0\Tugas PBO Dimas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Tugas PBO Dimas\Tugas PBO Dimas\obj\Debug\net6.0\Tugas PBO Dimas.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Tugas PBO Dimas\Tugas PBO Dimas\obj\Debug\net6.0\Tugas PBO Dimas.AssemblyInfo.cs
+C:\Users\hp\source\repos\Tugas PBO Dimas\Tugas PBO Dimas\obj\Debug\net6.0\Tugas PBO Dimas.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Tugas PBO Dimas\Tugas PBO Dimas\bin\Debug\net6.0\Tugas PBO Dimas.exe
+C:\Users\hp\source\repos\Tugas PBO Dimas\Tugas PBO Dimas\bin\Debug\net6.0\Tugas PBO Dimas.deps.json
+C:\Users\hp\source\repos\Tugas PBO Dimas\Tugas PBO Dimas\bin\Debug\net6.0\Tugas PBO Dimas.runtimeconfig.json
+C:\Users\hp\source\repos\Tugas PBO Dimas\Tugas PBO Dimas\bin\Debug\net6.0\Tugas PBO Dimas.dll
+C:\Users\hp\source\repos\Tugas PBO Dimas\Tugas PBO Dimas\bin\Debug\net6.0\Tugas PBO Dimas.pdb
+C:\Users\hp\source\repos\Tugas PBO Dimas\Tugas PBO Dimas\obj\Debug\net6.0\Tugas PBO Dimas.dll
+C:\Users\hp\source\repos\Tugas PBO Dimas\Tugas PBO Dimas\obj\Debug\net6.0\refint\Tugas PBO Dimas.dll
+C:\Users\hp\source\repos\Tugas PBO Dimas\Tugas PBO Dimas\obj\Debug\net6.0\Tugas PBO Dimas.pdb
+C:\Users\hp\source\repos\Tugas PBO Dimas\Tugas PBO Dimas\obj\Debug\net6.0\Tugas PBO Dimas.genruntimeconfig.cache
+C:\Users\hp\source\repos\Tugas PBO Dimas\Tugas PBO Dimas\obj\Debug\net6.0\ref\Tugas PBO Dimas.dll
